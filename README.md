@@ -1,7 +1,6 @@
 ![MasterHead](https://files.catbox.moe/wq00vv.gif)
 <h1 align="center">Hiya!</h1>
-<h3 align="center">I'm still pretty much a novice, always a beginner!</h3> <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irraydesu&label=Profile%20views&color=0e75b6&style=flat" alt="irraydesu" /> </p>
+<h3 align="center">I'm still pretty much a novice, always a beginner!</h3> 
 
 - 🌱 I’m currently learning **JavaScipt, cllg stuff (1st year)**
 
