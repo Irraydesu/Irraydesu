@@ -18,7 +18,6 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irraydesu&show_icons=true&locale=en" alt="irraydesu" /></p>
 
 <!--
 **Irraydesu/Irraydesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
