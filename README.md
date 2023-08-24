@@ -2,7 +2,7 @@
 <h1 align="center">Hiya!</h1>
 <h3 align="center">I'm still pretty much a novice, always a beginner!</h3> 
 
-- 🌱 I’m currently learning **JavaScipt, cllg stuff (1st year)**
+- 🌱 I’m currently learning **JavaScipt, uni stuff (1st year)**
 
 - 💬 Ask me about **my waifus, cats and coffeee**
 
